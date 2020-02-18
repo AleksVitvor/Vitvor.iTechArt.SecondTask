@@ -60,5 +60,4 @@ def getRublesAndPenny(sum):
     wordnumberfg=getWordNumbersFG(pen)
     strresult=wordnumbers+" "+wordrubles+" "+wordnumberfg+" "+wordpenny
     return strresult
-res=getRublesAndPenny(sum)
-print(res)
+print(getRublesAndPenny(sum))
